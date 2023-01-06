@@ -20,3 +20,5 @@
     <li>Drop the entire collection</li>
     <li>Set limit to view N records</li>
 </ul>
+
+# Please do ⭐ the repository, if it helped you in anyway.
