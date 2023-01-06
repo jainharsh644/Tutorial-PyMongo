@@ -10,13 +10,13 @@
 
 ## MongoDB Operations performed using Python:
 <ul>
-    <li>Establish a Connection<li>
-<li>Create a Collection<li>
-<li>Insert Data<li>
-<li>Insert Multiple Data<li>
-<li>Find Method<li>
-<li>Query or filter the data<li>
-<li>Delete one or many Data<li>
-<li>Drop the entire collection<li>
-<li>Set limit to view N records<li>
+    <li>Establish a Connection</li>
+    <li>Create a Collection</li>
+    <li>Insert Data</li>
+    <li>Insert Multiple Data</li>
+    <li>Find Method</li>
+    <li>Query or filter the data</li>
+    <li>Delete one or many Data</li>
+    <li>Drop the entire collection</li>
+    <li>Set limit to view N records</li>
 </ul>
