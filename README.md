@@ -9,13 +9,14 @@
 
 
 ## MongoDB Operations performed using Python:
-
-#### 1. Establish a Connection
-#### 2. Create a Collection
-#### 3. Insert Data
-#### 4. Insert Multiple Data
-#### 5. Find Method
-#### 6. Query or filter the data
-#### 7. Delete one or many Data
-#### 8. Drop the entire collection
-#### 9. Set limit to view N records
+<ul>
+    <li>Establish a Connection<li>
+<li>Create a Collection<li>
+<li>Insert Data<li>
+<li>Insert Multiple Data<li>
+<li>Find Method<li>
+<li>Query or filter the data<li>
+<li>Delete one or many Data<li>
+<li>Drop the entire collection<li>
+<li>Set limit to view N records<li>
+</ul>
